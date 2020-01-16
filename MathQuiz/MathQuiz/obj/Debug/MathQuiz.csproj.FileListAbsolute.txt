@@ -1,0 +1,9 @@
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Maren\Documents\School\BYU-I\Winter 2020\.NET Development\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
